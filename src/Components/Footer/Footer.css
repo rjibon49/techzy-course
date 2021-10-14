@@ -1,0 +1,15 @@
+.footer-ul{
+    margin: 0;
+    padding: 0;
+}
+.footer-li{
+    margin: 10px 0;
+    padding: 5px;
+}
+.footer-link{
+    text-decoration: none;
+    text-align: left;
+}
+.copy{
+    margin: 0;
+}

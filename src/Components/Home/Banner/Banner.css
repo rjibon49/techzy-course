@@ -1,0 +1,10 @@
+.banner-bg {
+    background-image: url(../../../Images/header-bg-1.jpg)
+}
+.banner-text {
+    height: 150px;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    position: relative;
+    top: 40%;
+}
