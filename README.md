@@ -1,6 +1,6 @@
 # Teachzy is Learning Plartform
 
-Learn Professional Skills [Teachzy](https://naughty-joliot-d6990e.netlify.app/).
+Learn Professional Skills [Teachzy](https://teachzy-course.netlify.app/).
 
 1)Best leacturer In our Academy.
 
